@@ -6,7 +6,7 @@ body {
 
     background-image: url(donation_1.jpg);
     background-repeat: no-repeat;
-    background-size: 1300px 500px;
+    background-size: 1440px 500px;
 }
 
 h1 {
@@ -93,20 +93,56 @@ p {
 }
 
 .bg {
-    background-color: gainsboro;
+    background-color: rgb(223, 236, 238);
     margin: 10px;
     padding: 60px 20px 20px;
     border-radius: 5px;
 }
 
-.bg-color_2{
-background-color: aquamarine;
+.bg-color_2 {
+    background-color: rgb(255, 223, 223);
 }
 
-.bg-color_3{
-    background-color: darksalmon;
-    }
+.bg-color_3 {
+    background-color: rgb(255, 243, 191);
+}
 
 .section_5 {
     margin: 20px 50px 20px 50px;
+}
+
+.Email_bg {
+    background-color: rgb(255, 243, 191);
+    padding: 50px 100px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.Email {
+    background-color: rgb(211, 210, 210);
+    border: 0;
+    border-radius: 5px;
+    padding: 12px;
+}
+
+.footer_css {
+    background-color: black;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+#footer_h {
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    color: rgb(255, 70, 70);
+}
+
+#footer_p {
+    color: white;
+}
+
+
+.heading_spaces {
+    margin-top: 100px;
 }
